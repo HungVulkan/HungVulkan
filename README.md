@@ -33,7 +33,9 @@ Protocols: SPI · UART · I2C · ADC
 Tools: STM32CubeIDE · CubeMX · Arduino IDE · Git
 
 📌 Projects
+<p align="left">
 [HCMUS_ADC_Oscilloscope](https://github.com/HonagF/HCMUS_ADC_Oscilloscope) - Digital oscilloscope display using dual-core STM32F303RE + ESP32 and ILI9488STM32 · ESP32 · SPI · ADC · TFT
+</p>
 
 📊 GitHub stats
 <p align="center">
