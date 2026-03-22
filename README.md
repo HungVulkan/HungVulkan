@@ -26,16 +26,19 @@
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
-Protocols: SPI · UART · I2C · ADC
+Protocols: SPI · UART · I2C · ADC 
+</p>
 Tools: STM32CubeIDE · CubeMX · Arduino IDE · Git
 
-📌 Projects
-<p align="left">
-[HCMUS_ADC_Oscilloscope](https://github.com/HonagF/HCMUS_ADC_Oscilloscope) - Digital oscilloscope display using dual-core STM32F303RE + ESP32 and ILI9488STM32 · ESP32 · SPI · ADC · TFT
-</p>
+---
+
+## 📌 Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [HCMUS_ADC_Oscilloscope](https://github.com/HonagF/HCMUS_ADC_Oscilloscope) | Digital oscilloscope display using dual-core STM32F303RE + ESP32 and ILI9488 | STM32 · ESP32 · SPI · ADC · TFT |
 
 📊 GitHub stats
 <p align="center">
