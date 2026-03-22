@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hung 👋</h1>
 
 <p align="center">
-  Embedded systems developer · STM32 · ESP32
+  2-year student interested in Embedded and Microcontroller
 </p>
 
 ## Projects
