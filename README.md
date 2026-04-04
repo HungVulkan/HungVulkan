@@ -10,7 +10,7 @@ Tools: STM32CubeIDE · CubeMX · Arduino IDE · Git
 
 ---
 
-## 📌 Projects
+## Projects
 
 | Project | Description | Stack |
 |---|---|---|
