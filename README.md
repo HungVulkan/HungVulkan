@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Hung 👋</h1>
-<p align="center">
   2nd year Electronics & Telecommunication student at HCMUS <br/>
   Interested in Embedded Systems, Hardware, Edge AI / TinyML and RTOS
 
