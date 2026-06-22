@@ -1,4 +1,4 @@
- ## Quoc-Hung Vu - 2nd-year Electronics & Telecommunication student at [FETEL-HCMUS](https://fetel.hcmus.edu.vn/) <br/>
+ ### Quoc-Hung Vu - 2nd-year Electronics & Telecommunication student at [FETEL](https://fetel.hcmus.edu.vn/) [VNUHCM-HCMUS](https://hcmus.edu.vn/) <br/>
   Learning & interested in Embedded Systems, Hardware, Edge AI / TinyML and RTOS (btw it so hard =(( I think I should change my career path soon)
 
 </p>
